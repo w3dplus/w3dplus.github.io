@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="61px" height="61px" viewBox="0 0 61 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>add-icon</title>
+    <defs>
+        <linearGradient x1="100%" y1="0.0615069137%" x2="0%" y2="99.9384931%" id="linearGradient-1">
+            <stop stop-color="#84F9D7" offset="0%"></stop>
+            <stop stop-color="#589ADF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="add-icon" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <path d="M27.7125,2.55625 L27.7125,27.675 L2.59375,27.675 C1.14375,27.675 -1.77635684e-15,28.88125 -1.77635684e-15,30.4375 C-1.77635684e-15,31.99375 1.175,33.2 2.59375,33.2 L27.7125,33.2 L27.7125,58.31875 C27.7125,59.76875 28.91875,60.9125 30.475,60.9125 C32.03125,60.9125 33.2375,59.7375 33.2375,58.31875 L33.2375,33.2375 L58.35625,33.2375 C59.80625,33.2375 60.95,32.03125 60.95,30.475 C60.95,28.91875 59.775,27.7125 58.35625,27.7125 L33.275,27.7125 L33.275,2.59375 C33.275,1.14375 32.06875,8.8817842e-16 30.5125,8.8817842e-16 C28.91875,8.8817842e-16 27.7125,1.1375 27.7125,2.55625 Z" id="路径"></path>
+        </g>
+    </g>
+</svg>

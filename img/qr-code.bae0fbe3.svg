@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180px" height="180px" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>框</title>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFEBA8" offset="0%"></stop>
+            <stop stop-color="#FAD189" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="框" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M20,7.97644834e-13 L20,2 L2,2 L2,20 L4.61852778e-13,20 L4.61852778e-13,3.41060513e-13 L20,7.97644834e-13 Z" id="形状结合" fill="url(#linearGradient-1)"></path>
+        <path d="M180,3.42897483e-13 L180,2 L162,2 L162,20 L160,20 L160,-1.13686838e-13 L180,3.42897483e-13 Z" id="形状结合备份" fill="url(#linearGradient-1)" transform="translate(170.000000, 10.000000) rotate(-270.000000) translate(-170.000000, -10.000000) "></path>
+        <path d="M180,160 L180,162 L162,162 L162,180 L160,180 L160,160 L180,160 Z" id="形状结合备份-2" fill="url(#linearGradient-1)" transform="translate(170.000000, 170.000000) rotate(-180.000000) translate(-170.000000, -170.000000) "></path>
+        <path d="M20,160 L20,162 L2,162 L2,180 L7.10542736e-15,180 L7.10542736e-15,160 L20,160 Z" id="形状结合备份-3" fill="url(#linearGradient-1)" transform="translate(10.000000, 170.000000) rotate(-90.000000) translate(-10.000000, -170.000000) "></path>
+    </g>
+</svg>

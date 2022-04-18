@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>增加流动性</title>
+    <g id="增加流动性" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="椭圆形" fill="#0085FF" cx="16" cy="16" r="16"></circle>
+        <path d="M16,26 C21.5228475,26 26,21.5228475 26,16 C26,10.4771525 21.5228475,6 16,6 C10.4771525,6 6,10.4771525 6,16" id="椭圆形" stroke="#FFFFFF" stroke-linecap="round" transform="translate(16.000000, 16.000000) rotate(-180.000000) translate(-16.000000, -16.000000) "></path>
+        <path d="M11.0297988,17.0637954 C11.1467946,15.6899843 11.8105411,15.0030788 13.0210383,15.0030788 C14.2315355,15.0030788 14.8925925,14.3323323 15.0042093,12.9908392" id="路径-2" stroke="#FFFFFF" stroke-linecap="round"></path>
+        <path d="M15.0297988,20.0637954 C15.1467946,18.6899843 15.8105411,18.0030788 17.0210383,18.0030788 C18.2315355,18.0030788 18.8925925,17.3323323 19.0042093,15.9908392" id="路径-2备份" stroke="#FFFFFF" stroke-linecap="round"></path>
+        <rect id="矩形" fill="#FFFFFF" x="19" y="9" width="7" height="1" rx="0.5"></rect>
+        <rect id="矩形" fill="#FFFFFF" transform="translate(22.500000, 9.500000) rotate(-270.000000) translate(-22.500000, -9.500000) " x="19" y="9" width="7" height="1" rx="0.5"></rect>
+    </g>
+</svg>
